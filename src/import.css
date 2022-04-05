@@ -1,0 +1,5 @@
+/* Import all the components in this file */
+
+@import "./components/bg-body.css";
+@import "./components/button.css";
+@import "./components/heading.css";

@@ -1,0 +1,5 @@
+@layer components {
+    .heading {
+        @apply text-4xl font-mono font-extrabold text-white;
+    }
+}

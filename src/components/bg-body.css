@@ -1,0 +1,5 @@
+@layer components {
+    .bg-body {
+        @apply flex flex-col justify-center items-center h-screen w-2/3 gap-12 mx-auto bg-gradient-to-r from-slate-900 via-gray-600 to-zinc-500;
+    }
+}
