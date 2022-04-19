@@ -24,8 +24,12 @@ Follow the Getting Started guide and build websites with Tailwind CSS. Also, fol
 
         npm install
 
-6.  Build using Tailwind CSS
+6.  Build using Tailwind CSS in dev
 
-        npm run build
+        npm run dev
+
+7.  Build using Tailwind CSS for Production
+
+        npm run prod
 
 NOTE: Do NOT edit the file `public > styles.css` directly - This is the distribution stylesheet. The CSS here is generated from `src > styles.css` using Tailwind when you build.
